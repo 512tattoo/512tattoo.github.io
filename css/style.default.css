@@ -148,6 +148,9 @@ p.social a.instagram {
 p.social a.email {
   background-color: #4a7f45;
 }
+p.social a.website {
+  background-color: #797779;
+}
 .copyright {
   margin-top: 40px;
   color: #999999;
