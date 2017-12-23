@@ -151,6 +151,9 @@ p.social a.email {
 p.social a.website {
   background-color: #797779;
 }
+p.social a.yelp {
+  background-color: #d32323;
+}
 .copyright {
   margin-top: 40px;
   color: #999999;
@@ -202,6 +205,10 @@ p.social a.website {
   border: solid 2px #fff;
   border-radius: 20px;
   z-index: 3;
+}
+.jason{
+  font-style: italic;
+  color: red;
 }
 body.disabled-onepage-scroll .onepage-wrapper section {
   min-height: 100%;
@@ -964,3 +971,4 @@ a.list-group-item.active > .badge,
 .nav-pills > li > a > .badge {
   margin-left: 3px;
 }
+
